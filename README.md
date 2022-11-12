@@ -1,6 +1,9 @@
 # FLEX-0
 Clone de l'interpréteur de commande FLEX écrit en Pascal
 
+![image](https://user-images.githubusercontent.com/11842176/201494198-f0b73880-65d3-4820-8c47-90a99920351a.png)
+
+
 <h2>Compilation</h2>
 	
 Les fichiers Pascal n'ont aucune dépendances, il suffit de télécharger le fichier désiré et de le compiler avec Free Pascal avec la syntaxe de commande  :
